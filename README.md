@@ -37,7 +37,7 @@
 ## Connect with me:
 
 <p align="left"> 
-    <a href="https://www.linkedin.com/in/korcilm/" target="_blank"><img height="32" width="32" style="margin-right:10px;" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" /> </a> 
+    <a href="https://www.linkedin.com/in/korcilm/" target="_blank"><img height="32" width="32" style="margin-right:10px;" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" /> </a> 
 </p>
 
 <br/><br/>
