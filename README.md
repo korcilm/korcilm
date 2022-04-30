@@ -4,7 +4,7 @@
 <img width="100%" height="auto" src="programmer.gif" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammet</h1>
-<h3 align="center">I'm a Computer Engineering Student.</h3>
+<h3 align="center">I'm a Software Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
