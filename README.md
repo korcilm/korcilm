@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">A passionate backend & mobile developer from Turkey</h3>
+<h3 align="center">An enthusiastic backend and mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korcilm&label=Profile%20views&color=0e75b6&style=flat" alt="korcilm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=korcilm" alt="korcilm" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [-](-)
+[- 👨‍💻 All of my projects are available at [-](-)](url)
 
 - 📫 How to reach me **korcilmuhammet@gmail.com**
 
